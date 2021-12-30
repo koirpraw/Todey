@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "849185486897",
+    "project_id": "hamropasal-78187",
+    "storage_bucket": "hamropasal-78187.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849185486897:android:60bafefe022cfab0af3d10",
+        "android_client_info": {
+          "package_name": "com.hamropasal.pk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849185486897-no9ddqlsauvgg04angbl01fqp98r9883.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hamropasal.pk",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "849185486897-qjcha91vfdc42e8bplq3kb9clok2breb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hamropasal.pk",
+            "certificate_hash": "fede1c5a41f0c87746f549d34e9b1f8a2cb3865a"
+          }
+        },
+        {
+          "client_id": "849185486897-501aakr07mejfbh0ulkeoutmqbsajib7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwKSA1jSdlPhkO6runpMauywW6rgs22nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849185486897-501aakr07mejfbh0ulkeoutmqbsajib7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849185486897-hdtuhph3si8mbose4c9upihhbtqeorqv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hamropasal.pk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
